@@ -1,7 +1,6 @@
 // Wordlist Creator v1.3
-// Coded by @thelinuxchoice
-// Github: github.com/thelinuxchoice/wlcreator
-// Sorry the shit code, it was made on "Legend Mode" using permute algorithm
+// Coded by @sananakther9740
+// Github: github.com/sananakther9740/wordl
 
 #include <stdio.h>
 #include <string.h>
